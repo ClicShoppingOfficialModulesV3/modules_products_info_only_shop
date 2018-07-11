@@ -1,0 +1,4 @@
+
+ module_products_info_only_shop = Do you want to display the shop exclusivity but order possibility (not shipping) ?
+ module_products_info_only_shop_description = Display the shop exclusivity (but order possibility but not shipping) in the product_description
+ text_products_only_shop = Exlusivity product only avalaible in your shop
